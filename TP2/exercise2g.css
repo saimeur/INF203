@@ -1,0 +1,33 @@
+.body{
+    position: relative;
+}
+
+.div3{
+    position: absolute;
+    top: 83px;
+    left: 83px;
+    width: 485px;
+    height: 485px;
+    z-index: 100;
+}
+
+.div3:hover{
+    color : tomato;
+}
+
+#id1{
+    border-style: solid;
+    border-width: 1px;
+    padding: 9px;
+}
+
+#img_N{
+    float:left; 
+    padding: 14px;
+}
+
+#id3{
+    background-color: grey;
+    margin: 10px;
+}
+
